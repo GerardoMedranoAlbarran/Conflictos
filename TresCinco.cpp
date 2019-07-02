@@ -18,6 +18,6 @@ void Numeros(int final){
 
 int main(){
 	//holagit commit 
-	Numeros(10);
+	Numeros(1200);
 	return 0;
 }
