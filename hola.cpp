@@ -24,7 +24,7 @@ int main()
 {
 	//hola
     char text[] = "Hello world!";
-    printf("%s\n",text);
+    printf("Saludando ando%s\n",text);
 	reverse(text);
     return 0;
 }
